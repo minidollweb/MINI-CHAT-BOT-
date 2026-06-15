@@ -48,7 +48,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "tor nam ki": "MY NAME IS ─꯭─⃝‌‌MINI DOLL 2.0💖",
     "pic de": "এন থেকে সর দুরে গিয়া মর😒",
     "cute": "Awww thanks bby!🥱🌝🌚",
-    "bal": "রাগ করে না সোনা পাখি 🥰",
+    "bot tmi kar jan ?": "Nusrat amr jan🥰",
     "heda": "এতো রাগ শরীরের জন্য ভালো না 🥰",
     "hlw": "hi bby!🌚🤣",
     "kire ki koros": "তোমার কথা ভাবতে ছি জানু 😚",
